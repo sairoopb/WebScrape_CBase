@@ -1,0 +1,1 @@
+1.Add the crunchbase company url/links in the "list_of_url" to scrape basic information.
