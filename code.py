@@ -103,5 +103,3 @@ with open('info.csv','w') as csvfile:
         write.writerow(row)
 
 csvfile.close()
-
-# app_get("https://www.olacabs.com/")
